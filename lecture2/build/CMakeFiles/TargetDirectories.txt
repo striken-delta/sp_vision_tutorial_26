@@ -1,0 +1,5 @@
+/home/delta/sp_vision_tutorial_26/lecture2/build/CMakeFiles/cpp_basics.dir
+/home/delta/sp_vision_tutorial_26/lecture2/build/CMakeFiles/split_channels.dir
+/home/delta/sp_vision_tutorial_26/lecture2/build/CMakeFiles/lightbar_detection.dir
+/home/delta/sp_vision_tutorial_26/lecture2/build/CMakeFiles/edit_cache.dir
+/home/delta/sp_vision_tutorial_26/lecture2/build/CMakeFiles/rebuild_cache.dir

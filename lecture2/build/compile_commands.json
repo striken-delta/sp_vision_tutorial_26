@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/delta/sp_vision_tutorial_26/lecture2/build",
+  "command": "/usr/bin/g++  -I/home/delta/sp_vision_tutorial_26/lecture2/part_1 -I/usr/include/opencv4 -g -o CMakeFiles/cpp_basics.dir/part_1/cpp_basics.cpp.o -c /home/delta/sp_vision_tutorial_26/lecture2/part_1/cpp_basics.cpp",
+  "file": "/home/delta/sp_vision_tutorial_26/lecture2/part_1/cpp_basics.cpp"
+},
+{
+  "directory": "/home/delta/sp_vision_tutorial_26/lecture2/build",
+  "command": "/usr/bin/g++  -I/home/delta/sp_vision_tutorial_26/lecture2/part_1 -I/usr/include/opencv4 -g -o CMakeFiles/cpp_basics.dir/part_1/tools.cpp.o -c /home/delta/sp_vision_tutorial_26/lecture2/part_1/tools.cpp",
+  "file": "/home/delta/sp_vision_tutorial_26/lecture2/part_1/tools.cpp"
+},
+{
+  "directory": "/home/delta/sp_vision_tutorial_26/lecture2/build",
+  "command": "/usr/bin/g++  -I/home/delta/sp_vision_tutorial_26/lecture2/part_1 -isystem /usr/include/opencv4 -g -o CMakeFiles/split_channels.dir/part_2/split_channels.cpp.o -c /home/delta/sp_vision_tutorial_26/lecture2/part_2/split_channels.cpp",
+  "file": "/home/delta/sp_vision_tutorial_26/lecture2/part_2/split_channels.cpp"
+},
+{
+  "directory": "/home/delta/sp_vision_tutorial_26/lecture2/build",
+  "command": "/usr/bin/g++  -I/home/delta/sp_vision_tutorial_26/lecture2/part_1 -isystem /usr/include/opencv4 -g -o CMakeFiles/lightbar_detection.dir/part_3/lightbar_detection..cpp.o -c /home/delta/sp_vision_tutorial_26/lecture2/part_3/lightbar_detection..cpp",
+  "file": "/home/delta/sp_vision_tutorial_26/lecture2/part_3/lightbar_detection..cpp"
+}
+]

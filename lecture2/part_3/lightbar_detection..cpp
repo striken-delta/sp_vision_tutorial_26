@@ -16,7 +16,7 @@ int main(int argc, char **argv)
     cv::Mat bgr_img = cv::imread(inPath);
     if (bgr_img.empty())
     {
-        std::cout << "fail to load image" << std::endl;
+        std::cout << " fail to load image" << std::endl;
         return -1;
     }
     // 转灰度
